@@ -1,4 +1,4 @@
-# G4E Ukrainian UI  
+# `G4E Ukrainian UI`  
 [![logo](img/logo_200.png)](https://gaming4eternity.online)  
 [![Завантажено](https://img.shields.io/github/downloads/justscribe/ffxiv_ukrainian/total.svg)](https://github.com/justscribe/ffxiv_ukrainian)
 ### Неофіційний переклад гри "Final Fantasy XIV" українською, від спільноти "Gaming For Eternity".
