@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.svg)](https://stand-with-ukraine.pp.ua)
+
 # `G4E Ukrainian UI`  
 [![logo](img/logo_200.png)](https://gaming4eternity.online)  
 [![Завантажено](https://img.shields.io/github/downloads/justscribe/ffxiv_ukrainian/total.svg)](https://github.com/justscribe/ffxiv_ukrainian)
